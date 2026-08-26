@@ -10,5 +10,12 @@
         "key": "keyvinhvien",
         "expirydate": "15-06-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7e9627b27bb1ee95",
+        "key": "keyvinhvien",
+        "expirydate": "15-06-2030",
+        "Allowoffline": false
     }
+    
 ]
