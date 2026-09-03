@@ -16,6 +16,12 @@
         "key": "keyvinhvien",
         "expirydate": "15-06-2030",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8b3662c348f85439",
+        "key": "kmdtest",
+        "expirydate": "15-06-2030",
+        "Allowoffline": true
     }
     
 ]
